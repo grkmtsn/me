@@ -21,6 +21,6 @@
   <span class="text-gray-300 font-bold mb-3">{nextPageNumber}</span>
   <div class="flex items-center">
     <span class="text-lg font-bold mr-3">{nextPageText}</span>
-    <img class="w-10" src="/arrow-rg.png" alt="arrow" />
+    <img class="w-10" src="/me/assets/icons/arrow-rg.png" alt="arrow" />
   </div>
 </div>
