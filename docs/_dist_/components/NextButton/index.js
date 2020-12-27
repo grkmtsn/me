@@ -52,7 +52,7 @@ function create_fragment(ctx) {
 			attr(span0, "class", "text-gray-300 font-bold mb-3");
 			attr(span1, "class", "text-lg font-bold mr-3");
 			attr(img, "class", "w-10");
-			if (img.src !== (img_src_value = "/assets/icons/arrow-rg.png")) attr(img, "src", img_src_value);
+			if (img.src !== (img_src_value = "/me/assets/icons/arrow-rg.png")) attr(img, "src", img_src_value);
 			attr(img, "alt", "arrow");
 			attr(div0, "class", "flex items-center");
 			attr(div1, "class", "absolute bottom-0 right-0 cursor-pointer");
